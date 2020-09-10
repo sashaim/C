@@ -41,7 +41,7 @@ void normalizar(char txt[N]){
         text[len]='\0';
     }
     while (txt[i]!='\0'){
-        
+        txt[i]
 
     }
 }
