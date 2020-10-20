@@ -46,5 +46,4 @@ void distacia(t_punto p1 ,t_punto p2){
         printf("Estan a la misma distancia");
     }
 
-    
 }
